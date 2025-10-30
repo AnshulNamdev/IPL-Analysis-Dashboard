@@ -29,3 +29,7 @@ Category	Player	Stat
     Power BI Desktop – Data modeling and visualization
     Excel / CSV – Raw IPL datasets (matches.csv, deliveries.csv)
     DAX (Data Analysis Expressions) – Calculated KPIs and measures
+
+# Picture Preview
+
+    
