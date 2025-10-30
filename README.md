@@ -31,5 +31,7 @@ Category	Player	Stat
     DAX (Data Analysis Expressions) – Calculated KPIs and measures
 
 # Picture Preview
+https://github.com/AnshulNamdev/IPL-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
+
 
     
